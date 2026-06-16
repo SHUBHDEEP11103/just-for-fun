@@ -2,5 +2,6 @@
 
 installation 
 ```bash 
+    npm install
+    version 12.2.0
 ```
-    
